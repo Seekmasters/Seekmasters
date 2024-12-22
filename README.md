@@ -17,5 +17,10 @@ key = 'SecretKey123456'  # Key obtained by the player
 decrypted_message = decrypt_ciphertext(ciphertext, key)
 print("Decrypted message:", decrypted_message)
 
-
 game start
+
+
+Summary:
+By combining puzzle-solving, cryptography, and blockchain technology, you can create a multi-layered game experience. The puzzles can grow in complexity as the player advances, and rewards are distributed transparently via smart contracts. This will not only challenge the players but also introduce them to cryptocurrency and smart contracts in an engaging way.
+
+If you have specific technical requirements or further game details, feel free to share, and I can help refine the design further.
