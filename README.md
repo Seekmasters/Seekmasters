@@ -9,8 +9,10 @@ def decrypt_ciphertext(ciphertext, key):
     decrypted = cipher.decrypt(base64.b64decode(ciphertext))
     return decrypted.strip().decode('utf-8')
 
+n：myster
+
 # Ciphertext and Key
-ciphertext = 'U2FsdGVkX1+g5vtx/xxxxxxxxxxxxxx'
+text = 'U2FsdGVkX1+g5vtx/xxxxxxxsNGYGMfceBWcfexxxxxxx'
 key = 'SecretKey123456'  # Key obtained by the player
 
 # Decrypt
